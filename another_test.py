@@ -1,3 +1,5 @@
 print("This is a test file")
 
-print("This another update that I will be adding to the file.")
+user_input = input("Enter your name and sentence to print: ")
+
+print(user_input)
